@@ -5,7 +5,7 @@ A weather chatbot using RASA
 1. python v3.7
 1. create virtual environment
 2. run `pip3 install rasa==1.6.1`
-3. get weather api (I have used `open weather map` [link](openweathermap.org))
+3. get weather api (I have used [open weather map](https://openweathermap.org/))
 4. add API_KEY in weather.py file
 
 ## run weather bot
