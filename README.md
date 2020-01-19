@@ -12,6 +12,6 @@
 run command `rasa run actions & rasa shell` to play
 
 
-###note
+### note
 Currently it only has districts of Maharashtra(India).
 If you want you can add more locations in lookup table and train models.
