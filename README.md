@@ -1,5 +1,5 @@
 # chatbot
-
+A weather chatbot using RASA
 
 ## pre-requisite
 1. python v3.7
